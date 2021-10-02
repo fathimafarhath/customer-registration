@@ -81,7 +81,14 @@ button:active{
 
 
 
+/* tabel */
 
+table{
+  border-collapse: collapse;
+  width: 100%;
+  background-color: burlywood;
+
+}
 
 
 

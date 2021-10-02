@@ -1,10 +1,14 @@
-import React from 'react'
+import React, { useState } from 'react'
 import SignupForm from './SignupForm'
 
+
 const Form = () => {
+    
+
     return (
         <div>
-            <SignupForm />
+           
+             <SignupForm /> 
         </div>
     )
 }
